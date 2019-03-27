@@ -1,0 +1,9 @@
+[package]
+name = "lambda"
+version = "0.1.0"
+authors = ["ben blum <bblum@dropbox.com>"]
+edition = "2018"
+
+[dependencies]
+nom = "^4.2"
+
